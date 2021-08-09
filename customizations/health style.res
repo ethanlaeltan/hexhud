@@ -9,8 +9,8 @@
 //==============================================================================================
 
 
-#base "../resource/ui/hudplayerhealth_shadow.res"				// COLORED SHADOW STYLE
-//#base "../resource/ui/hudplayerhealth_minimal.res"			// MINIMAL STYLE
+//#base "../resource/ui/hudplayerhealth_shadow.res"				// COLORED SHADOW STYLE
+base "../resource/ui/hudplayerhealth_minimal.res"			// MINIMAL STYLE
 //#base "../resource/ui/hudplayerhealth_box.res"				// BOX STYLE
 //#base "../resource/ui/hudplayerhealth_cross.res"				// CROSS STYLE
 //#base "../resource/ui/hudplayerhealth_cross_tc.res"			// TEAM COLORED CROSS STYLE

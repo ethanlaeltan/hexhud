@@ -9,5 +9,5 @@
 //=========================================================================================
 
 
-#base "../resource/ui/scoreboard_short.res"				// SHORT STATS SCOREBOARD
-//#base "../resource/ui/scoreboard_full.res"			// FULL STATS SCOREBOARD
+//#base "../resource/ui/scoreboard_short.res"				// SHORT STATS SCOREBOARD
+#base "../resource/ui/scoreboard_full.res"			// FULL STATS SCOREBOARD

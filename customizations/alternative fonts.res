@@ -12,10 +12,10 @@
 //#base "../resource/scheme/alternative_fonts/avenir.res"				// AVENIR
 //#base "../resource/scheme/alternative_fonts/cerbetica.res"			// CERBETICA
 //#base "../resource/scheme/alternative_fonts/lato.res"					// LATO
-#base "../resource/scheme/alternative_fonts/lexend.res"					// LEXEND
+//#base "../resource/scheme/alternative_fonts/lexend.res"					// LEXEND
 //#base "../resource/scheme/alternative_fonts/neutra.res"				// NEUTRA
 //#base "../resource/scheme/alternative_fonts/product.res"				// PRODUCT
-//#base "../resource/scheme/alternative_fonts/product_bold.res"			// PRODUCT BOLD
+#base "../resource/scheme/alternative_fonts/product_bold.res"			// PRODUCT BOLD
 //#base "../resource/scheme/alternative_fonts/quake.res"				// QUAKE
 //#base "../resource/scheme/alternative_fonts/renogare.res"				// RENOGARE
 //#base "../resource/scheme/alternative_fonts/roboto.res"				// ROBOTO

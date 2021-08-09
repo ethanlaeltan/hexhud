@@ -705,7 +705,7 @@
 
 		if_mvm
 		{
-			"visible"								"0"
+			"visible"								"1"
 		}
 	}
 	"SpectatorsInQueue"
@@ -752,8 +752,8 @@
 		
 		if_mvm
 		{
-			"xpos"									"-6"
-			"ypos"									"-15"
+			"xpos"									"26"
+			"ypos"									"12"
 		}
 	}
 

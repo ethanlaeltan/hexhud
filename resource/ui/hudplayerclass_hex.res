@@ -19,7 +19,7 @@
 	{
 		"ControlName"								"CTFClassImage"
 		"fieldName"									"PlayerStatusClassImage"
-		"xpos"										"9999"	//0
+		"xpos"										"25"	//0
 		"ypos"										"rs1"
 		"zpos"										"2"
 		"wide"										"65"
